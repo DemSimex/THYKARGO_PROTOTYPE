@@ -1,0 +1,324 @@
+CREATE TABLE ALBANIA(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE BELARUS(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE AUSTRIA(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE BELGIUM(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE BOSNIA(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE BULGARIA(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE CROATIA(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE CZECH_REP(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE DENMARK(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+
+CREATE TABLE ESTONIA(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE FINLAND(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE FRANCE(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE GERMANY(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE GREECE(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE HUNGARY(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE ITALY(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE LATVIA(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE LITHUANIA(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE LUXEMBURG(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE MACEDONIA(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE MOLDOVA(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE MALTA(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE MONTENEGRO(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE NETHERLANDS(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE NORWAY(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE POLAND(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE PORTUGAL(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE ROMANIA(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE RUSSIA(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE SERBIA(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE KOSOVO(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE SLOVAKIA(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE SLOVENIA(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE SPAIN(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE SWEDEN(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
+
+CREATE TABLE SWITZERLAND(
+city_id INT PRIMARY KEY,
+city_name VARCHAR(50),
+for45kg NUMERIC(3,2),
+for100kg NUMERIC(3,2),
+for300kg NUMERIC(3,2),
+for500kg NUMERIC(3,2),
+for1ton NUMERIC(3,2),)
